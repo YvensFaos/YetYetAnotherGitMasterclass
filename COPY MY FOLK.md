@@ -1,6 +1,2 @@
-# YetYetAnotherGitMasterclass
-
-Add some text.
-Line 2
-Add 3
-Add 4
+That's my second level
+I have a story :)
